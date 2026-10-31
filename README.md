@@ -1,2 +1,2 @@
 # Space-Math
-Shoot the ship that has the write number for the multiplication.
+Shoot the ship that has the right number for the multiplication.
